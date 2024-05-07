@@ -1,4 +1,4 @@
-# Domain Adaptation in Large Language Models - CHATBOT
+# Domain Adaptation in Large Language Models (CHATBOT)
 
 Introduction:
 
